@@ -9,7 +9,7 @@ com persistência de dados em MySQL via Spring Data JPA.
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- MySQL
+- H2 Database
 - Maven
 - Postman (testes)
 
