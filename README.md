@@ -1,7 +1,7 @@
 # 📋 API de Gestão de Tarefas
 
 API REST desenvolvida com Java e Spring Boot para gerenciamento de tarefas,
-com persistência de dados em MySQL via Spring Data JPA.
+com persistência de dados em H2 Database via Spring Data JPA.
 
 ## 🚀 Tecnologias
 
